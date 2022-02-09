@@ -2,6 +2,8 @@
 
 // Declare L298N Motor Driver pins
 
+//Based off https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/
+
 int speedPinA = 14; //D5 PWM control 
 int dir1PinA = 12; //D6
 int dir2PinA = 13; //D7
